@@ -2,8 +2,8 @@
 - 👀 I’m captivated by elegantly designed systems, kittens, and physiological coherence. 
 - 🌱 I’m currently on here to learn foundational full-stack development jargon by shaking pixels of the Super-Fancy-Sailor-Moon-Meets-Aubrey-Plaza-canon variety.  
 - 💞️ I’m looking to collaborate on projects relating to: gamification, trauma-informed Ontology (applied), and/or catalyzing neuroplasticity through somantic embodiment. 
-Pedagogical Appraoch: Collaborative, Integrative 
-Influencing Frameworks: Montessori, Waldorf, Gibson Integrated Attachment Theory, Relationship Development Intervention
+- 🤓 Pedagogical Appraoch: Collaborative, Integrative 
+- 👾 Influencing Frameworks: Montessori, Waldorf, Gibson Integrated Attachment Theory, Relationship Development Intervention
 - 📫 How to reach me ... janesheehan.contact@gmail.com
 
 <!---
